@@ -85,7 +85,7 @@ def map_number_codes(options):
 
 number_count = [0,0,0,0,0,0,0,0,0,0]
 total = 0
-with open('day_8_puzzle_input.txt') as f:
+with open('day_08_puzzle_input.txt') as f:
 
     lines = f.readlines()
     for line in lines:

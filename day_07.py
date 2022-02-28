@@ -12,7 +12,7 @@ def calculate_fuel_cost(dest_spot, crab_spots):
     return fuel
 
 crab_spots = []
-with open('day_7_puzzle_input.txt') as f:
+with open('day_07_puzzle_input.txt') as f:
     lines = f.readlines()
     # Read Bingo  numbers
     crab_spots = [int(number) for number in lines[0].split(",")]

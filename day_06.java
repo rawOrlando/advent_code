@@ -53,7 +53,7 @@ public class day_6 {
 
         try {
             //URL url = day_6.class.getResource("day_6_puzzle_input.txt");
-            File file = new File("day_6_puzzle_input.txt");
+            File file = new File("day_06_puzzle_input.txt");
 
             // Note:  Double backquote is to avoid compiler
             // interpret words

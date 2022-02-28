@@ -112,7 +112,7 @@ def is_lowest_neighbors(numbers_grid, x, y):
 numbers_grid = list()
 
 # Read numbers
-with open('day_9_puzzle_input.txt') as f:
+with open('day_09_puzzle_input.txt') as f:
 
     lines = f.readlines()
     for line in lines:

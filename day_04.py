@@ -95,7 +95,7 @@ def read_bingo_numbers(line):
 bingo_numbers = list()
 bingo_tiles = list()
 
-with open('day_4_puzzle_input.txt') as f:
+with open('day_04_puzzle_input.txt') as f:
     lines = f.readlines()
     # Read Bingo  numbers
     bingo_numbers = read_bingo_numbers(lines[0])

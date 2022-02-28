@@ -4,7 +4,7 @@ current_depth = 0
 current_h_pos = 0
 aim = 0
 
-with open('day_2_puzzle_input.txt') as f:
+with open('day_02_puzzle_input.txt') as f:
     lines = f.readlines()
     for line in lines:
         # fowards

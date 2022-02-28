@@ -5,7 +5,7 @@ increased_elev_count = 0
 
 # size does not seem to be a constrant here.
 elevations = list()
-with open('day_1_puzzle_input.txt') as f:
+with open('day_01_puzzle_input.txt') as f:
     lines = f.readlines()
     for line in lines:
     	elevations.append(int(line))

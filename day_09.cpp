@@ -23,7 +23,7 @@ int main() {
   string myText;
 
   // Read from the text file
-  ifstream MyReadFile("day_9_puzzle_input.txt");
+  ifstream MyReadFile("day_09_puzzle_input.txt");
 
   int row_index = 0;
   // Use a while loop together with the getline() function to read the file line by line

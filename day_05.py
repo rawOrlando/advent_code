@@ -33,7 +33,7 @@ def add_steam_for_line(dict_steam, x1, y1, x2, y2):
 
 dict_steam = defaultdict(int)
 
-with open('day_5_puzzle_input.txt') as f:
+with open('day_05_puzzle_input.txt') as f:
     lines = f.readlines()
 
     for line in lines:

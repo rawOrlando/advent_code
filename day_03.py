@@ -2,7 +2,7 @@ import math
 
 bytes_list = list()
 
-with open('day_3_puzzle_input.txt') as f:
+with open('day_03_puzzle_input.txt') as f:
     lines = f.readlines()
     for line in lines:
         bytes_list.append(line)
